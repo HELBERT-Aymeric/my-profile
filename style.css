@@ -1,0 +1,78 @@
+body {
+	background-color: rgb(248, 249, 249);
+	font-size: 16px; 
+	font-family: 'Montserrat', sans-serif;
+	font-weight: lighter;
+}
+
+
+h2, h3, h4, h5{
+		font-size: 28px;
+		color: rgb(46, 134, 193);
+		font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	color: rgb(44, 62, 80);
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	letter-spacing: 0,5px; 
+	font-size: 60px;
+}
+
+
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 22px;
+}
+
+a: hover{
+	color: blue
+}
+
+head{
+
+}
+
+
+div{
+	background-color: rgba(0, 0, 0, 0.1);
+padding: 60px;
+margin: 50px;
+box-shadow: 1px 10px 30px rgba(0, 0, 0, 0.1) ;
+border-radius: 15px;
+}
+
+
+
+
+
+.container{
+	width: 700px;
+	margin: 40px auto;  
+}
+
+.card-white{
+	background-color: white;
+	padding: 40px;
+	text-align: center;
+
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+
+
+
+
+.list-inline li {
+	display: inline;
+	padding-left: 10px;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+
+}
